@@ -1,7 +1,7 @@
 # Activity
 
 # Program: 
-<!DOCTYPE html>
+```
 <html>
 <head>
     <title>Product Cards</title>
@@ -149,6 +149,7 @@
 
 </body>
 </html>
+```
 
 # Output:
 <img width="1917" height="1091" alt="image" src="https://github.com/user-attachments/assets/f1ce8b3b-5156-44f5-8588-b75b3aa902f2" />
